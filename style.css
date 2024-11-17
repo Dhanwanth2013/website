@@ -1,0 +1,35 @@
+#hi{
+    color: crimson;
+    margin: 30px 450px;
+    padding: 10px;
+    text-align: center;
+    border-style: double;
+    border-width: 1ch 1px;
+    border-color: rgba(185, 7, 230, 0.651);
+    border-radius: 99px;
+    background-color: rgba(238, 255, 0, 0.342);
+}
+.main{
+    color: rgb(255, 145, 0);
+    border-style: double;
+    border-color: blueviolet;
+    border-radius: 999px;
+    border-width: 1ch 1px;
+    text-align: center;
+    margin: 1px 200px;
+    background-color: rgb(197, 210, 211);
+
+}
+.main2{
+    color: red;
+    background-color: bisque;
+    width: 5%;
+}
+body{
+    text-align: justify;
+    text-decoration: cadetblue;
+    text-indent: 20px;
+    word-spacing: 9px;
+    font-style: oblique;
+
+}
